@@ -1,0 +1,5 @@
+C:\Dropbox\AppDev_Beacon\01-EnkadiaFuse-CurrentProjects\Enkadia.PJLink\Enkadia.PJLink-1.0.18.1204\Enkadia.PJLink\bin\x64\Debug\Enkadia.PJLink.dll
+C:\Dropbox\AppDev_Beacon\01-EnkadiaFuse-CurrentProjects\Enkadia.PJLink\Enkadia.PJLink-1.0.18.1204\Enkadia.PJLink\bin\x64\Debug\Enkadia.PJLink.pdb
+C:\Dropbox\AppDev_Beacon\01-EnkadiaFuse-CurrentProjects\Enkadia.PJLink\Enkadia.PJLink-1.0.18.1204\Enkadia.PJLink\obj\x64\Debug\Enkadia.PJLink.csproj.CoreCompileInputs.cache
+C:\Dropbox\AppDev_Beacon\01-EnkadiaFuse-CurrentProjects\Enkadia.PJLink\Enkadia.PJLink-1.0.18.1204\Enkadia.PJLink\obj\x64\Debug\Enkadia.PJLink.dll
+C:\Dropbox\AppDev_Beacon\01-EnkadiaFuse-CurrentProjects\Enkadia.PJLink\Enkadia.PJLink-1.0.18.1204\Enkadia.PJLink\obj\x64\Debug\Enkadia.PJLink.pdb
